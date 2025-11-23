@@ -2,8 +2,13 @@ dba
 数据库
 mysql
 DeepSeek
+oracle
+redis
 ai
+51cto
+database
 web3
+sql
 区块链
 btc
 eth
@@ -58,16 +63,18 @@ ai
 美国
 日本
 韩国
-
+迪拜
+马来西亚
+郑州
+北京
+阿联酋
 芯片
 光刻机
 
 科技
-
+羽毛球
+badminton
 核能
-
-水电站
-雅鲁藏布江
 
 新质生产力
 
